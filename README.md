@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bagus Surya Indrajati</h1>
-<h3 align="center">I Am a Software Engineer Enthusiast</h3>
+<h3 align="center">I Am  Software Engineer Enthusiast</h3>
 
 - 🌱 I’m currently learning **ReactJS, Vue, ExpressJS and MongoDB**
 
-- 💬 Ask me about **React and Express**
+- 💬 Ask me about **React, Vue and Express**
 
 - 📫 How to reach me **Bagus.suryaindrajati@gmail.com**
 
