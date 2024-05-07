@@ -37,4 +37,5 @@
   <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> <img src="https://hapi.dev/img/icon_helmets_extensibility.svg" alt="HapiJs" width="40" height="40" alt="NuxtJs" width="40" height="40"> </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="HapiJs" width="40" height="40" alt="NuxtJs" width="40" height="40" > </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/gophers/ladder.svg" alt="HapiJs" width="40" height="40" alt="NuxtJs" width="40" height="40"> </a> 
    </p>
