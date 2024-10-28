@@ -23,15 +23,6 @@ I'm currently active in contributing as Open Source Freelancer in Front-End Apps
 <br>
 <br>
 
-### Github Statistic
-
-<p align="left">
-<a href="https://github.com/Bagussurya12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bagussurya12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bagussurya12&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### Reach me on
 
 - <a href="https://www.linkedin.com/in/bagussuryaindrajati/">LinkedIn</a>
