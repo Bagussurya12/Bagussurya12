@@ -3,11 +3,7 @@
 
 I'm currently active in contributing as Open Source Freelancer in Front-End Apps (Web, Android) and Back-End Service.
 
-- 🔭 I’m currently working on <a href="https://github.com/Bagussurya12">@self employee</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: Bagus.suryaindrajati@gmail.com
-- ⚡ Fun fact:
 
 ### Tech Stack
 
