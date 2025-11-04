@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Product-Driven Full-Stack Engineer
+### 🚀 Product-Driven Full-Stack Software Engineer
 **"Turning coffee into code and ideas into impact"** ☕ → 💻 → 🌟
 
 </div>
