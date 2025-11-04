@@ -1,91 +1,96 @@
-<h1 align="center">Hi 👋, I'm Bagus Surya Indrajati</h1>
-<h3 align="center">🚀 Product-Driven Full-Stack Software Engineer</h3>
+# 💫 Hello World, I'm Bagus Surya Indrajati!
 
-<p align="center">
-  <em>“Product-Driven Full-Stack Engineer who loves creating impact.”</em>
-</p>
+<div align="center">
+  
+### 🚀 Product-Driven Full-Stack Engineer
+**"Turning coffee into code and ideas into impact"** ☕ → 💻 → 🌟
 
-<p align="center">
-  I’m a passionate Software Engineer focused on building real-world products — from concept to production — that deliver measurable impact.  
-  Experienced in both web and mobile ecosystems, I enjoy crafting scalable solutions that blend technical precision with great user experience.
-</p>
+</div>
 
 ---
 
-### 🌟 About Me
+## 🎯 My Engineering Philosophy
 
-- 💡 Passionate about **solving real-world problems with code**
-- ⚙️ Experienced in **building end-to-end systems (Frontend, Backend, and Mobile)**
-- 🌱 Currently learning **Go, Flutter, and Cloud Architecture**
-- 🤝 Open for collaboration on **Open Source & Startup Projects**
-- 📫 Reach me: **Bagus.suryaindrajati@gmail.com**
+> *"I don't just write code — I build solutions that solve real-world problems and deliver measurable business value."*
+
+I'm passionate about crafting digital experiences that blend **technical excellence** with **user-centric design**. From concept to production, I thrive on building systems that are not just functional, but delightful to use.
 
 ---
 
-### 🧠 Core Tech Stack
+## 🛠️ My Tech Arsenal
 
-#### 💻 Frontend
-<p>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="40" height="40"/>
-</p>
+### **Frontend Magic** ✨
+<div align="center">
+  
+| Angular | Vue.js | Flutter | TailwindCSS |
+|:---:|:---:|:---:|:---:|
+| <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" /> | <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40" /> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /> |
 
-#### ⚙️ Backend
-<p>
-  <img src="https://go.dev/images/gophers/ladder.svg" alt="Go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="50" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-</p>
+</div>
 
-#### 🗄️ Databases & Cache
-<p>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="40" height="40"/>
-</p>
+### **Backend Power** ⚡
+<div align="center">
+  
+| Go | TypeScript | Node.js | Python | PHP |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://go.dev/images/gophers/ladder.svg" width="40" /> | <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" width="40" /> | <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="40" /> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" /> | <img src="https://www.php.net/images/logos/new-php-logo.svg" width="45" /> |
 
-#### 🐳 DevOps & Cloud
-<p>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45"/>
-</p>
+</div>
+
+### **Data & Infrastructure** 🗄️
+<div align="center">
+  
+| MySQL | PostgreSQL | Redis | Docker | Kubernetes |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" /> | <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="40" /> | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" /> | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" /> |
+
+</div>
 
 ---
 
-### 📊 GitHub Insights
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagussurya12&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussurya12&theme=dark&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagussurya12&layout=compact&theme=dark&hide_border=true" />
-</p>
+![Bagus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagussurya12&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bagussurya12&theme=radical&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagussurya12&layout=compact&theme=radical&hide_border=true)
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bagussuryaindrajati/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://bagussurya12.github.io/Portofolio-Bagus/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" />
-  </a>
-  <a href="mailto:Bagus.suryaindrajati@gmail.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <em>“I build real products that solve real problems — not just playground projects.”</em><br>
-  ✨ Problem Solver • Fast Learner • Creative • Friendly ✨
-</p>
+## 🌟 What Drives Me
+
+```javascript
+const myPassions = {
+  💡: "Solving complex problems with elegant code",
+  🚀: "Building products from zero to hero",
+  🌱: "Continuous learning & skill expansion", 
+  🤝: "Collaborating on meaningful projects",
+  ⚡: "Performance optimization & scalability"
+};
+```
+
+---
+
+## 📬 Let's Build Something Amazing Together!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](https://bagussurya12.github.io/Portofolio-Bagus/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagussuryaindrajati/)
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bagus.suryaindrajati@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### **"Code is poetry, but impact is the masterpiece"** 🎨
+
+⭐️ *"If you like what you see, don't forget to star some repos!"* ⭐️
+
+</div>
