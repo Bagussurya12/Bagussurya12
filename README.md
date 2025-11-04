@@ -17,7 +17,7 @@ I'm passionate about crafting digital experiences that blend **technical excelle
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🛠️ Tech
 
 ### **Frontend Magic** ✨
 <div align="center">
